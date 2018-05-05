@@ -1,0 +1,9 @@
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\bin\Debug\ServidorMonopolio.exe.config
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\bin\Debug\ServidorMonopolio.exe
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\bin\Debug\ServidorMonopolio.pdb
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\obj\Debug\ServidorMonopolio.csprojResolveAssemblyReference.cache
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\obj\Debug\ServidorMonopolio.ServerForm.resources
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\obj\Debug\ServidorMonopolio.Properties.Resources.resources
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\obj\Debug\ServidorMonopolio.csproj.GenerateResource.Cache
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\obj\Debug\ServidorMonopolio.exe
+C:\Users\Felix\Documents\A Redes II\Proyecto\ServidorMonopolio\ServidorMonopolio\obj\Debug\ServidorMonopolio.pdb
